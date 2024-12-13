@@ -1,0 +1,17 @@
+[
+    {
+        "nome": "Lionel Andres Messi Cuccittini",
+        "nacionalidade": "argentina",
+        "idade": 37
+    },
+    {
+        "nome": "Cristiano Ronaldo dos Santos Aveiro",
+        "nacionalidade": "portugal",
+        "idade": 39
+    },
+    {
+        "nome": "railan aparecido dos santos",
+        "idade": 26,
+        "nacionalidade": "brasil"
+    }
+]
